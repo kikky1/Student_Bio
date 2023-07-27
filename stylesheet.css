@@ -1,0 +1,46 @@
+
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.navbar-area {
+display: flex;
+align-items: center;
+padding: 1rem 0
+}
+
+.nav-brand{
+    padding-left: 2rem;
+}
+
+.nav-text{
+    font-size: large;
+    padding-left: 20rem;
+}
+.nav-text h1{
+  font-weight: bolder;
+}
+
+fieldset{
+  border: 2px solid;
+  padding: 3rem;
+  margin: 1rem;
+}
+
+fieldset legend{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 1rem;
+  font-style: italic;
+  letter-spacing: 2px;
+  background-color: aqua;
+}
+
+.section-area .student-area fieldset ul > img{
+  width: 100px;
+  height: 100px;
+}
+
+
