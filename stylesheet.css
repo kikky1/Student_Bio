@@ -35,12 +35,13 @@ fieldset legend{
   padding: 1rem;
   font-style: italic;
   letter-spacing: 2px;
-  background-color: aqua;
 }
 
-.section-area .student-area fieldset ul > img{
+.section-area .student-area fieldset .student-image{
   width: 100px;
   height: 100px;
 }
+
+
 
 
